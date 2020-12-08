@@ -12,7 +12,7 @@ node app.js
 ```
 
 Open [http://localhost:3000/](http://localhost:3000/) in your web browser to
-view the running app.
+view the running app
 
 ## Build and run CatApp app on OpenShift using a cloud native OpenShift Pipeline
 
